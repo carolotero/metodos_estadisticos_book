@@ -1,0 +1,6 @@
+fig:nice-fig-2
+tab:nice-tab-2
+introduccion
+cross
+chapters-and-sub-chapters
+captioned-figures-and-tables
