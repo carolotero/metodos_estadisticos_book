@@ -3,13 +3,16 @@ title: "Guia de estudio Metodos Estadísticos"
 author: "Carol Otero"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+output: bookdown::gitbook
 documentclass: book
 bibliography: book.bib
 description: |
   Esta es una recopilación de los apuntes del Diplomado de Estadística, énfasis en métodos estadísticos con R y adicional con Python.
 link-citations: true
-github-repo: "rstudio/bookdown-demo"
+github-repo: "carolotero/metodos_estadisticos_book"
 ---
+
+
 
 # Introduccion
 
